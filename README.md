@@ -1,4 +1,4 @@
-![MasterHead](https://tm.ibxk.com.br/2020/12/16/16202113844337.jpg?ims=1120x420)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Data+Science/+Analyst+Enthusiast...++++++++++)](https://git.io/typing-svg)
 
