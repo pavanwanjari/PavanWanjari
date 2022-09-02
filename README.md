@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm PaVaN !</h1>
 <h3 align="center">Data Science Enthusiast.</h3>
-<img align = "center" alt= "Coding" width = "400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif">
+<img align = "left" alt= "Coding" width = "400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavanwanjari" alt="pavanwanjari" /></a> </p>
 
